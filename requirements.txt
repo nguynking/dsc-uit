@@ -1,0 +1,13 @@
+bitsandbytes
+git+https://github.com/huggingface/transformers.git
+it+https://github.com/huggingface/peft.git
+git+https://github.com/huggingface/accelerate.git
+datasets
+py-vncorenlp
+wandb
+pyvi
+pandas
+numpy
+matplotlib
+torch
+sklearn
